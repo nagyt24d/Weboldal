@@ -1,0 +1,19 @@
+#content {
+    width: 600px;
+    border: 7px solid darkred;
+    margin:auto;
+    padding: 23px;
+    background-color: beige;
+    border-radius: 40px;
+    
+}
+
+img {
+    width: 510px;
+    
+
+}
+
+body {
+    background-color: azure;
+}
